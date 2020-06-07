@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Peter "Gyu Young" Chang                          # the main title
+title: Peter G. Chang                          # the main title
 
-tagline: Filmmaker, scientist, entrepreneur.  # it will display as the sub-title
+tagline: Filmmaker, Scientist, Entrepreneur.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Personal website for Peter Chang.
